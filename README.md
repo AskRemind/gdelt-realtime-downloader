@@ -30,7 +30,7 @@ typing features when running on Python < 3.10.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/gdelt-realtime-downloader.git
+git clone https://github.com/AskRemind/gdelt-realtime-downloader.git
 cd gdelt-realtime-downloader
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements_realtime.txt
